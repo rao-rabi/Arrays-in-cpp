@@ -22,4 +22,8 @@ int main(){
     }
 
     cout<<"The frequency of "<<numFreq<<" in the array is: "<<freq<<endl;;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0a8f1a0ac8158ea565d32181a9bdae01c971597f
