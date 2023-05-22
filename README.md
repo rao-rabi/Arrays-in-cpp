@@ -5,3 +5,4 @@ C++ array Programs
 3-sum of numbers in array.
 4-Count repeated values from array.
 5-Find duplicate values from array.
+6- Swap "0" in array with the "0 index" of array.
